@@ -1,0 +1,317 @@
+Main food description,100 cluster group,50 cluster group,20 cluster group,10 cluster group,DBSCAN .1 2,DBSCAN .5 2,DBSCAN .5 5,DBSCAN .8 10,Affinity Prop .9 -10,Affinity Prop .9 -3,Affinity Prop .9 -1,Affinity Prop .6 -1,Affinity Prop .6 -3,Affinity Prop .6 -10
+"Milk, whole",14,13,0,5,0,0,0,0,3,6,0,0,8,1
+"Milk, reduced fat (2%)",14,13,0,5,1,0,0,0,3,6,0,0,8,1
+"Milk, low fat (1%)",14,13,0,5,1,0,0,0,3,6,0,0,8,1
+"Milk, fat free (skim)",14,13,0,5,1,0,0,0,3,6,0,0,8,1
+Soy milk,14,13,0,5,1,0,0,0,3,6,0,0,8,1
+"Almond milk, sweetened",14,13,0,5,-1,0,0,0,3,6,0,0,8,1
+"Almond milk, unsweetened",14,13,0,5,-1,0,0,0,3,6,0,0,8,1
+"Yogurt, whole milk, plain",14,13,0,5,0,0,0,0,3,6,0,0,8,1
+"Yogurt, low fat milk, plain",14,13,0,5,-1,0,0,0,3,6,0,0,8,1
+"Yogurt, nonfat milk, plain",86,24,19,5,-1,0,0,0,3,6,0,16,8,1
+Eggnog,14,13,0,5,-1,0,0,0,3,6,0,0,8,1
+White sauce or gravy,83,34,12,5,-1,0,0,0,3,6,0,0,8,1
+"Cheese, Cheddar",6,8,18,4,2,0,0,0,0,7,0,19,1,0
+"Cheese, Colby",6,8,18,4,2,0,0,0,0,7,0,19,1,0
+"Cheese, Mozzarella, NFS",93,8,18,4,-1,0,0,0,0,7,0,19,1,0
+"Cheese, Mozzarella, nonfat or fat free",60,20,3,2,-1,0,0,0,0,0,0,3,0,1
+"Cheese, Parmesan, dry grated",58,38,14,4,-1,-1,-1,0,0,7,0,19,1,0
+"Cheese, Swiss",6,8,18,4,-1,0,0,0,0,7,0,19,1,0
+"Cheese, cottage, NFS",92,4,0,5,-1,0,0,0,3,6,0,15,8,1
+"Cheese, Ricotta",0,34,12,5,-1,0,0,0,3,6,0,15,8,1
+"Cheese, American",28,38,14,4,-1,0,0,0,0,7,0,19,1,0
+"Cheese sandwich, American cheese, on white bread",77,26,12,3,-1,0,0,0,1,4,0,6,6,0
+Alfredo sauce,83,34,12,5,-1,0,0,0,3,6,0,6,8,1
+"Mozzarella sticks, breaded, baked, or fried",39,37,12,3,-1,0,0,0,1,4,0,6,6,0
+"Meat, NFS",70,3,3,2,3,0,0,0,0,0,0,3,0,1
+"Beef, steak, NFS",70,16,3,2,3,0,0,0,0,0,0,3,0,1
+"Beef, steak, flank",70,16,3,2,3,0,0,0,0,0,0,3,0,0
+"Beef, steak, ribeye, NS as to fat eaten",70,16,3,2,-1,0,0,0,0,0,0,3,0,0
+"Beef, steak, sirloin, NS as to fat eaten",70,3,3,2,-1,0,0,0,0,0,0,3,0,0
+"Beef, steak, T-bone, NS as to fat eaten",70,16,3,2,3,0,0,0,0,0,0,3,0,0
+"Beef, steak, tenderloin",33,3,3,2,-1,0,0,0,0,0,0,2,0,1
+"Beef, ground, raw",70,16,3,2,-1,0,0,0,0,0,0,3,0,1
+Beef jerky,25,18,13,4,4,1,-1,0,0,0,0,1,1,0
+Beef jerky,25,18,13,4,4,1,-1,0,0,0,0,1,1,0
+Pork jerky,25,18,13,4,4,1,-1,0,0,0,0,1,1,0
+Pork jerky,25,18,13,4,4,1,-1,0,0,0,0,1,1,0
+"Pork, NFS",33,3,3,2,5,0,0,0,0,0,0,2,0,1
+"Pork, chop, NS as to fat eaten",33,3,3,2,5,0,0,0,0,0,0,2,0,1
+"Pork, chop, coated, NS as to fat eaten",33,3,3,2,-1,0,0,0,0,0,0,2,0,1
+Ham,44,33,17,2,-1,0,0,0,0,0,0,3,0,1
+"Canadian bacon, cooked",89,47,3,2,-1,0,0,0,0,0,0,2,0,1
+"Lamb, NS as to cut",48,16,3,2,-1,0,0,0,0,0,0,3,0,0
+Goat,33,47,3,2,-1,0,0,0,0,0,0,2,0,1
+Rabbit,33,3,3,2,-1,0,0,0,0,0,0,2,0,1
+Moose,65,47,3,2,-1,0,0,0,0,0,0,2,0,1
+Bear,33,3,3,2,-1,0,0,0,0,0,0,2,0,1
+Bison,33,3,3,2,-1,0,0,0,0,0,0,2,0,1
+"Chicken, NS as to part and cooking method, NS as to skin eaten",3,20,3,2,6,0,0,0,0,0,0,3,0,1
+"Chicken, NS as to part and cooking method, NS as to skin eaten",3,20,3,2,6,0,0,0,0,0,0,3,0,1
+"Chicken, NS as to part, rotisserie, NS as to skin eaten",3,20,3,2,6,0,0,0,0,0,0,3,0,1
+"Chicken, NS as to part, rotisserie, NS as to skin eaten",3,20,3,2,6,0,0,0,0,0,0,3,0,1
+"Chicken, NS as to part, fried, coated, skin / coating eaten",21,20,3,2,-1,0,0,0,0,0,0,3,0,0
+"Chicken breast, baked, broiled, or roasted, skin eaten, from raw",49,20,3,2,7,0,0,0,0,0,0,3,0,1
+"Chicken breast, baked, coated, skin / coating eaten",49,20,3,2,7,0,0,0,0,0,0,3,0,1
+"Chicken leg, drumstick and thigh, NS as to cooking method, skin eaten",49,20,3,2,7,0,0,0,0,0,0,3,0,1
+"Chicken leg, drumstick and thigh, NS as to cooking method, skin eaten",49,20,3,2,7,0,0,0,0,0,0,3,0,1
+"Chicken leg, drumstick and thigh, rotisserie, skin eaten",49,20,3,2,7,0,0,0,0,0,0,3,0,1
+"Chicken leg, drumstick and thigh, rotisserie, skin eaten",49,20,3,2,7,0,0,0,0,0,0,3,0,1
+"Chicken drumstick, baked, broiled, or roasted, skin eaten, from raw",49,20,3,2,7,0,0,0,0,0,0,3,0,1
+"Chicken drumstick, rotisserie, skin eaten",49,20,3,2,7,0,0,0,0,0,0,3,0,1
+"Chicken thigh, NS as to cooking method, skin eaten",49,20,3,2,7,0,0,0,0,0,0,3,0,1
+"Chicken thigh, baked, coated, skin / coating not eaten",49,20,3,2,7,0,0,0,0,0,0,3,0,1
+"Chicken wing, NS as to cooking method",21,20,3,2,-1,0,0,0,0,0,0,3,0,0
+"Chicken ""wings"", plain, from fast food / restaurant",59,35,4,2,-1,0,0,0,0,0,0,4,1,0
+"Chicken, ground",49,20,3,2,7,0,0,0,0,0,0,3,0,1
+"Chicken nuggets, NFS",59,43,17,2,-1,0,0,0,0,0,0,6,0,0
+"Chicken tenders or strips, NFS",59,43,17,2,-1,0,0,0,0,0,0,3,0,1
+"Turkey, NFS",3,47,3,2,8,0,0,0,0,0,0,2,0,1
+"Turkey, drumstick, cooked, skin not eaten",3,47,3,2,8,0,0,0,0,0,0,3,0,1
+"Duck, cooked, skin eaten",91,16,18,4,-1,0,0,0,0,7,0,4,1,0
+"Cornish game hen, cooked, skin eaten",21,16,3,2,-1,0,0,0,0,0,0,3,0,0
+Beef sausage,26,30,4,4,-1,2,-1,0,0,7,0,4,1,0
+Bratwurst,45,45,4,4,-1,0,0,0,0,4,0,4,1,0
+"Pepperoni, NFS",34,45,13,4,-1,-1,-1,0,0,7,0,1,1,0
+Polish sausage,26,30,4,4,-1,2,-1,0,0,4,0,4,1,0
+Italian sausage,7,35,4,4,9,0,0,0,0,7,0,4,1,0
+Pork sausage,7,35,4,4,9,0,0,0,0,7,0,4,1,0
+"Ham, prepackaged or deli, luncheon meat",89,33,17,2,-1,0,0,0,0,0,0,2,0,1
+"Chicken, prepackaged or deli, luncheon meat",89,33,17,2,-1,0,0,0,0,0,0,2,0,1
+Spam,45,45,4,4,-1,0,0,0,0,4,0,4,1,0
+"Fish, NFS",46,10,9,8,-1,0,0,0,0,1,0,5,2,0
+"Fish, carp",68,10,9,8,-1,0,0,0,0,1,0,5,2,0
+"Fish, catfish, NFS",59,43,17,2,-1,0,0,0,0,0,0,15,0,1
+"Fish, cod, NFS",19,43,17,2,-1,0,0,0,0,0,0,15,0,1
+"Fish, flounder, NFS",46,4,9,8,-1,0,0,0,0,1,0,15,2,1
+"Fish, haddock, NFS",19,43,17,2,-1,0,0,0,0,0,0,15,0,1
+"Fish, mackerel, NFS",95,10,9,8,-1,0,0,0,0,1,0,5,2,0
+"Fish, perch, NFS",19,43,17,2,-1,0,0,0,0,0,0,15,0,1
+"Fish, pompano, NFS",10,10,9,8,-1,0,0,0,0,1,0,5,2,0
+"Fish, salmon, NFS",95,10,9,8,-1,0,0,0,0,1,0,5,2,0
+"Fish, bass, NFS",46,10,9,8,-1,0,0,0,0,1,0,5,2,1
+"Fish, trout, NFS",68,10,9,8,-1,0,0,0,0,1,0,5,2,0
+"Fish, tuna, NFS",46,4,17,2,-1,0,0,0,0,0,0,15,0,1
+"Fish, whiting, NFS",19,43,17,2,-1,0,0,0,0,0,0,15,0,1
+"Fish, white, mixed species, NFS",46,4,3,2,-1,0,0,0,0,1,0,3,2,1
+"Clams, NFS",92,4,17,5,-1,0,0,0,0,0,0,15,0,1
+Crab,65,47,17,2,-1,0,0,0,3,0,0,2,0,1
+Lobster,3,47,3,2,-1,0,0,0,0,0,0,2,0,1
+"Oysters, raw",79,41,0,5,-1,0,0,0,3,6,0,0,8,1
+"Scallops, grilled",92,4,17,2,-1,0,0,0,0,0,0,15,0,1
+"Shrimp, NFS",92,4,17,5,-1,0,0,0,0,0,0,15,0,1
+"Barbecue meat, NFS",55,5,17,2,10,0,0,0,0,0,0,3,0,1
+"Sloppy joe, no bun",12,12,2,6,-1,0,0,0,3,6,0,18,8,1
+"Barbecue pork, with sauce",55,5,17,2,10,0,0,0,0,0,0,3,0,1
+Imitation crab meat,5,1,19,0,-1,0,0,0,3,2,0,8,3,1
+"Sloppy joe sandwich, on white bun",12,12,2,6,-1,0,0,0,3,2,0,18,3,1
+"Barbecue beef sandwich, on white bun",94,5,17,0,-1,0,0,0,0,2,0,6,3,1
+"Cheeseburger, NFS",97,5,12,3,-1,0,0,0,0,4,0,6,1,0
+Cheeseburger (McDonalds),39,37,12,3,-1,0,0,0,1,4,0,6,6,1
+Whopper (Burger King),64,43,17,3,-1,0,0,0,3,2,0,15,3,1
+Roast beef sandwich on white,94,21,17,0,-1,0,0,0,0,2,0,20,3,1
+Cheese steak sandwich or sub on white,97,5,12,3,-1,0,0,0,0,0,0,6,1,1
+Gyro sandwich,12,12,2,0,-1,0,0,0,3,2,0,15,3,1
+"Barbecue chicken sandwich, on white bun",94,5,17,0,-1,0,0,0,0,2,0,15,3,1
+"Egg, whole, cooked, NS as to cooking method",61,26,12,8,11,0,0,0,0,1,0,7,2,1
+"Egg, white, cooked, NS as to fat",92,4,0,5,-1,0,0,0,3,6,0,15,8,1
+"Egg, yolk only, raw",27,15,11,8,-1,-1,-1,-1,0,1,0,7,2,0
+"Egg omelet or scrambled egg, NS as to fat",61,26,12,8,11,0,0,0,0,1,0,7,2,1
+"Beans, NFS",85,40,8,0,12,0,0,0,3,2,0,8,3,3
+"White beans, NFS",85,40,8,0,12,0,0,0,3,2,0,8,3,1
+"Black beans, NFS",85,40,8,0,12,0,0,0,3,2,0,8,3,1
+"Lima beans, NFS",85,40,8,0,12,0,0,0,3,2,0,8,3,1
+"Pinto beans, NFS",85,40,8,0,12,0,0,0,3,2,0,8,3,3
+"Kidney beans, NFS",85,40,8,0,12,0,0,0,3,2,0,8,3,3
+"Soybeans, cooked",80,43,17,2,-1,0,0,0,0,2,0,8,3,1
+Baked beans,5,1,19,0,-1,0,0,0,3,2,0,8,3,1
+Refried beans,90,44,19,6,-1,0,0,0,3,2,0,16,7,2
+"Hummus, plain",74,43,17,0,-1,0,0,0,1,2,0,8,3,3
+"Chickpeas, NFS",85,40,8,0,-1,0,0,0,3,2,0,8,3,3
+"Split peas, from dried, no added fat",5,40,19,0,-1,0,0,0,3,2,0,8,3,1
+Bacon bits,18,49,13,4,-1,-1,-1,-1,0,4,0,1,1,0
+"Nuts, NFS",2,9,6,7,13,3,1,1,1,3,0,9,4,0
+"Nuts, NFS",2,9,6,7,13,3,1,1,1,3,0,9,4,0
+"Mixed nuts, NFS",2,9,6,7,13,3,1,1,1,3,0,9,4,0
+"Mixed nuts, NFS",2,9,6,7,13,3,1,1,1,3,0,9,4,0
+"Almonds, NFS",2,9,6,7,-1,3,1,1,1,3,0,9,4,0
+"Cashews, NFS",78,9,6,7,-1,3,1,1,1,3,0,9,4,3
+Hazelnuts,41,6,6,7,-1,-1,-1,-1,1,3,0,9,4,0
+"Peanuts, NFS",2,9,6,7,-1,3,1,1,0,3,0,9,4,0
+"Walnuts, excluding honey roasted",16,29,10,7,-1,4,-1,1,1,3,0,10,4,3
+"Walnuts, honey roasted",47,25,10,7,-1,-1,-1,1,1,3,0,10,4,3
+Peanut butter,2,9,6,7,-1,3,1,1,1,3,0,9,4,0
+"Trail mix, NFS",87,31,16,9,-1,5,-1,0,1,5,0,11,5,3
+"Pumpkin seeds, NFS",84,29,6,7,-1,3,1,1,0,3,0,10,4,0
+"Sunflower seeds, NFS",88,29,10,7,-1,4,-1,1,1,3,0,10,4,3
+Flax seeds,22,17,10,7,-1,4,-1,1,1,3,0,10,4,3
+Chia seeds,22,17,10,7,-1,4,-1,1,1,2,0,10,3,3
+"Bread, NS as to major flour",9,21,8,0,14,0,0,0,1,2,0,20,3,3
+"Bread, NS as to major flour",9,21,8,0,14,0,0,0,1,2,0,20,3,3
+"Bread, white",9,21,8,0,14,0,0,0,1,2,0,20,3,3
+"Bread, white",9,21,8,0,14,0,0,0,1,2,0,20,3,3
+"Garlic bread, NFS",17,37,1,3,-1,0,0,0,1,4,0,6,6,3
+Croissant,72,27,12,3,-1,0,0,0,1,4,0,6,6,0
+Bagel,9,21,8,0,-1,0,0,0,1,2,0,20,3,3
+"Bread, whole grain white",9,21,8,0,-1,0,0,0,1,2,0,20,3,3
+"Bread, oatmeal",23,21,8,0,-1,0,0,0,1,4,0,20,6,3
+"Biscuit, NFS",17,27,1,3,-1,0,0,0,1,4,0,6,6,3
+"Tortilla, NFS",9,21,8,0,-1,0,0,0,1,2,0,20,3,3
+"Cookie, NFS",8,31,16,9,15,5,-1,0,1,4,0,11,5,3
+"Cookie, NFS",8,31,16,9,15,5,-1,0,1,4,0,11,5,3
+"Cookie, bar, with chocolate",8,31,16,9,15,5,-1,0,1,4,0,11,5,3
+"Cookie, bar, with chocolate",8,31,16,9,15,5,-1,0,1,4,0,11,5,3
+"Pie, NFS",73,37,12,3,-1,0,0,0,1,4,0,6,6,3
+"Doughnut, NFS",81,31,16,9,-1,5,-1,0,1,4,0,11,5,3
+Nutrition bar (Clif Bar),20,19,7,9,-1,6,-1,-1,2,5,0,12,5,3
+Nutrition bar (PowerBar),20,19,7,9,-1,6,-1,-1,1,5,0,12,5,3
+"Nutrition bar or meal replacement bar, NFS",13,36,7,3,-1,-1,-1,-1,2,5,0,13,9,2
+"Crackers, oatmeal",82,11,1,9,-1,0,-1,0,1,4,0,14,6,3
+"Tortilla chips, plain",15,11,1,9,-1,0,0,0,1,4,0,14,6,3
+Snack mix,15,11,1,9,-1,0,0,0,1,4,0,14,6,3
+"Popcorn, NFS",50,27,1,3,-1,-1,-1,0,1,4,0,14,6,3
+"Pretzels, NFS",43,11,1,9,-1,-1,-1,0,1,4,0,14,6,3
+"Pretzels, soft, NFS",98,21,1,0,-1,0,0,0,1,4,0,20,6,3
+"Pancakes, NFS",77,37,12,3,-1,0,0,0,1,4,0,6,6,1
+"Pancakes, whole grain",77,37,12,3,-1,0,0,0,1,4,0,6,6,1
+"Waffle, NFS",75,0,12,3,-1,0,0,0,1,4,0,6,6,1
+"French toast, NFS",77,26,12,3,-1,0,0,0,1,4,0,6,6,1
+"Crepe, NFS",0,26,12,3,-1,0,0,0,1,1,0,7,2,1
+"Grits, NFS",79,41,0,5,16,0,0,0,3,6,0,18,8,1
+"Oatmeal, NFS",79,41,0,5,16,0,0,0,3,6,0,18,8,1
+"Quinoa, NS as to fat",42,41,0,5,-1,0,0,0,3,6,0,18,8,1
+"Rice, cooked, NFS",52,1,19,0,17,0,0,0,3,2,0,8,3,1
+"Rice, white, cooked, NS as to fat",52,1,19,0,17,0,0,0,3,2,0,8,3,1
+"Rice, brown, cooked, NS as to fat",52,1,19,0,17,0,0,0,3,2,0,8,3,1
+"Yellow rice, cooked, NS as to fat",32,1,19,0,-1,0,0,0,3,6,0,8,8,1
+"Cream of wheat, NFS",79,41,0,5,16,0,0,0,3,6,0,18,8,1
+"Whole wheat cereal, cooked",36,24,19,0,-1,0,0,0,3,6,0,8,8,1
+"Cereal, O's, plain",29,39,7,9,-1,-1,-1,-1,1,2,0,20,3,3
+Wheat bran,35,46,8,0,-1,-1,-1,-1,1,2,0,20,3,3
+"Taco, NFS",19,43,17,2,-1,0,0,0,0,0,0,15,0,1
+"Burrito, NFS",64,43,17,3,-1,0,0,0,1,4,0,15,6,1
+"Burrito bowl, NFS",92,4,17,5,-1,0,0,0,3,0,0,15,0,1
+"Enchilada, NFS",64,34,12,5,-1,0,0,0,3,6,0,15,8,1
+"Nachos, NFS",64,43,17,3,-1,0,0,0,1,4,0,6,6,1
+"Quesadilla, NFS",39,37,12,3,-1,0,0,0,1,4,0,6,6,0
+"Fajita, NFS",51,12,2,1,-1,0,0,0,2,9,0,21,9,2
+"Pizza, cheese, from frozen, thin crust",39,37,12,3,-1,0,0,0,1,4,0,6,6,1
+"Pizza with meat and vegetables, from frozen, thick crust",71,37,12,3,-1,0,0,0,1,4,0,6,6,1
+Pizza rolls,75,0,12,3,-1,0,0,0,1,4,0,6,6,1
+Pierogi,12,44,2,0,-1,0,0,0,3,2,0,18,3,3
+Biscuit with gravy,0,34,12,3,-1,0,0,0,1,4,0,6,6,1
+Lasagna with meat,71,12,2,5,-1,0,0,0,3,6,0,18,8,1
+"Ravioli, NS as to filling, no sauce",0,34,12,5,-1,0,0,0,3,6,0,15,8,1
+"Tortellini, meat-filled, with tomato sauce",71,41,2,5,-1,0,0,0,3,6,0,15,8,1
+Macaroni or noodles with cheese,0,34,12,3,-1,0,0,0,1,4,0,6,6,1
+"Pasta with sauce, NFS",42,41,0,5,18,0,0,0,3,6,0,18,8,1
+"Pasta, whole grain, with tomato-based sauce, restaurant",42,41,0,5,-1,0,0,0,3,6,0,18,8,1
+"Pasta, whole grain, with tomato-based sauce, home recipe",42,41,0,5,18,0,0,0,3,6,0,18,8,1
+"Macaroni or pasta salad, made with light mayonnaise",32,41,2,0,-1,0,0,0,3,6,0,18,8,1
+"Rice, fried, NFS",71,41,2,5,-1,0,0,0,3,6,0,18,8,2
+"Sushi, NFS",32,41,19,0,-1,0,0,0,3,6,0,18,8,1
+"Soup, NFS",79,41,0,5,-1,0,0,0,3,6,0,18,8,1
+"Noodle soup, NFS",36,1,19,0,-1,0,0,0,3,6,0,8,8,1
+"Clementine, raw",63,2,5,1,19,0,0,0,2,9,0,21,9,2
+"Clementine, raw",63,2,5,1,19,0,0,0,2,9,0,21,9,2
+"Tangerine, raw",63,2,5,1,19,0,0,0,2,9,0,21,9,2
+"Tangerine, raw",63,2,5,1,19,0,0,0,2,9,0,21,9,2
+"Grapefruit, raw",63,2,5,1,-1,0,0,0,2,9,0,21,9,2
+"Lemon, raw",67,14,15,6,20,0,0,0,2,8,0,17,7,2
+"Lime, raw",67,14,15,6,-1,0,0,0,2,8,0,17,7,2
+"Orange, raw",1,14,15,1,-1,0,0,0,2,8,0,17,9,2
+"Orange juice, 100%, NFS",1,14,15,6,-1,0,0,0,2,8,0,17,7,2
+"Apple, raw",38,42,15,6,21,0,0,0,3,6,0,16,7,2
+"Banana, raw",38,42,15,6,-1,0,0,0,3,8,0,16,7,2
+"Cantaloupe, raw",40,23,5,1,-1,0,0,0,2,9,0,21,9,2
+"Cherries, raw",38,42,15,6,21,0,0,0,3,6,0,16,7,2
+"Grapes, raw",38,42,15,6,-1,0,0,0,3,6,0,16,7,2
+"Mango, raw",63,2,5,1,-1,0,0,0,2,9,0,21,9,2
+"Peach, raw",4,2,0,5,-1,0,0,0,3,6,0,18,8,2
+"Pear, raw",38,42,15,6,-1,0,0,0,3,6,0,16,7,2
+"Pineapple, raw",1,14,15,6,-1,0,0,0,2,8,0,17,7,2
+"Watermelon, raw",11,2,5,1,-1,0,0,0,2,9,0,21,8,2
+"Berries, NFS",1,14,15,6,20,0,0,0,2,8,0,17,7,2
+"Blueberries, raw",38,42,15,6,-1,0,0,0,3,8,0,16,7,2
+"Raspberries, raw",67,14,15,6,-1,0,0,0,2,8,0,17,7,2
+"Strawberries, raw",67,14,15,6,20,0,0,0,2,8,0,17,7,2
+"Guacamole, NFS",51,12,2,6,-1,0,0,0,3,6,0,18,8,2
+"Apple juice, 100%",1,14,15,6,-1,0,0,0,2,8,0,17,7,2
+"Potato, NFS",51,2,2,1,-1,0,0,0,2,9,0,21,8,2
+"Potato chips, NFS",66,48,1,9,-1,-1,-1,0,1,4,0,14,6,3
+Vegetable chips,54,7,1,9,-1,-1,-1,0,1,4,0,14,6,3
+"Potato, scalloped, NFS",71,12,2,5,-1,0,0,0,3,9,0,21,8,2
+"Potato, home fries, NFS",53,44,2,6,-1,0,0,0,3,2,0,16,7,3
+"Potato, hash brown, NFS",53,44,2,0,-1,0,0,0,3,2,0,8,3,3
+"Potato, baked, peel eaten",90,44,15,6,-1,0,0,0,3,8,0,16,7,2
+Potato pancake,51,12,2,1,-1,0,0,0,2,9,0,21,9,2
+"Broccoli raab, raw",30,23,5,1,-1,0,0,0,2,9,0,21,9,2
+"Greens, NS as to form, cooked",30,28,5,1,-1,0,0,0,2,9,0,21,9,2
+"Kale, raw",30,28,5,1,-1,0,0,0,2,9,0,21,9,2
+"Spinach, raw",30,23,5,1,22,0,0,0,2,9,0,21,9,2
+"Broccoli, raw",37,14,15,1,23,0,0,0,2,8,0,17,9,2
+"Carrots, raw",40,23,5,1,24,0,0,0,2,9,0,21,9,2
+"Peas and carrots, fresh, cooked, no added fat",30,23,5,1,-1,0,0,0,2,9,0,21,9,2
+"Pumpkin, canned, cooked",40,23,5,1,-1,0,0,0,2,9,0,21,8,2
+"Sweet potato, NFS",40,23,5,1,-1,0,0,0,2,9,0,21,9,2
+"Tomatoes, NS as to form, cooked",11,2,5,1,-1,0,0,0,2,9,0,21,9,2
+"Salsa, NFS",69,32,0,5,-1,0,0,0,3,6,0,18,8,2
+Barbecue sauce,24,22,16,9,-1,-1,-1,-1,3,6,0,20,5,3
+"Green beans, raw",11,2,5,1,25,0,0,0,2,9,0,21,9,2
+"Brussels sprouts, raw",37,28,5,1,-1,0,0,0,2,8,0,21,9,2
+"Celery, raw",4,2,0,5,-1,0,0,0,3,6,0,18,8,2
+"Corn, raw",38,42,15,6,-1,0,0,0,3,6,0,18,8,2
+"Lettuce, raw",40,23,5,1,-1,0,0,0,2,9,0,21,9,2
+"Mushrooms, raw",86,24,19,6,26,0,0,0,3,6,0,16,7,2
+"Onions, raw",31,42,15,6,27,0,0,0,3,8,0,16,7,2
+"Green peas, raw",63,28,5,1,-1,0,0,0,2,9,0,21,9,2
+Coleslaw,63,2,5,1,-1,0,0,0,2,9,0,21,9,2
+"Artichoke, fresh, cooked, no added fat",90,44,15,6,-1,0,0,0,3,8,0,16,7,2
+"Asparagus, NS as to form, cooked",4,2,0,5,-1,0,0,0,3,9,0,21,8,2
+"Green beans, canned, cooked, no added fat",4,32,0,5,-1,0,0,0,3,6,0,18,8,2
+"Corn, NS as to form, cooked",42,41,0,5,-1,0,0,0,3,6,0,18,8,2
+"Mushrooms, NS as to form, cooked",4,41,0,5,-1,0,0,0,3,6,0,18,8,2
+"Peppers, green, cooked",37,28,5,1,-1,0,0,0,2,8,0,21,9,2
+"Peppers, red, cooked",37,28,5,1,28,0,0,0,2,9,0,21,9,2
+"Snowpea, NS as to form, cooked",37,28,5,1,-1,0,0,0,2,9,0,21,9,2
+"Summer squash, yellow or green, frozen, cooked, no added fat",4,2,15,6,-1,0,0,0,3,6,0,18,8,2
+"Peas and corn, cooked, no added fat",11,2,5,1,-1,0,0,0,3,9,0,21,8,2
+Fried onion rings,76,21,1,0,-1,0,0,0,1,4,0,14,6,3
+"Pickles, dill",69,32,19,6,29,0,0,0,3,6,0,18,8,1
+"Pickles, dill",69,32,19,6,29,0,0,0,3,6,0,18,8,1
+"Pickles, NFS",69,32,19,6,29,0,0,0,3,6,0,18,8,1
+"Pickles, NFS",69,32,19,6,29,0,0,0,3,6,0,18,8,1
+"Jalapenos, NFS",96,28,5,1,-1,0,0,0,2,9,0,21,9,2
+"Zucchini, pickled",62,32,2,6,-1,0,0,0,3,6,0,18,8,2
+"Bean paste, sweetened",56,22,16,9,-1,-1,-1,0,3,2,0,11,5,3
+"Water, NFS",36,24,19,6,-1,0,0,0,3,6,0,8,7,1
+"Nutritional drink or shake, ready-to-drink (Boost)",99,23,5,1,-1,0,0,0,2,9,0,21,9,2
+"Nutritional drink or shake, ready-to-drink (Muscle Milk)",30,28,5,1,-1,0,0,0,2,9,0,21,9,2
+"Sports drink, NFS",36,24,19,6,-1,0,0,0,3,6,0,16,7,1
+Cheese as ingredient in sandwiches,28,38,14,4,-1,0,0,0,0,7,0,19,1,0
+Cheese and Queso as ingredient,6,8,18,4,-1,0,0,0,0,7,0,19,1,0
+Beef as ingredient in recipes,48,16,3,2,-1,0,0,0,0,0,0,3,0,1
+Breakfast meat as ingredient in omelet,7,35,4,4,-1,0,0,0,0,0,0,4,1,0
+Chicken as ingredient in recipes,49,20,3,2,-1,0,0,0,0,0,0,3,0,1
+"Fish fillet, fried as ingredient in sandwiches",19,4,17,2,-1,0,0,0,0,0,0,15,0,1
+Breading or batter as ingredient in food,23,41,8,0,-1,0,0,0,3,2,0,20,3,1
+Wheat bread as ingredient in sandwiches,9,21,8,0,-1,0,0,0,1,2,0,20,3,3
+Wheat bun as ingredient in sandwiches,23,37,12,3,-1,0,0,0,1,4,0,6,6,1
+"Spinach, cooked, as ingredient",30,23,5,1,22,0,0,0,2,9,0,21,9,2
+"Broccoli, cooked, as ingredient",37,14,15,1,23,0,0,0,2,8,0,17,9,2
+"Carrots, cooked, as ingredient",40,23,5,1,24,0,0,0,2,9,0,21,9,2
+"Tomatoes, cooked, as ingredient",11,2,5,1,25,0,0,0,2,9,0,21,9,2
+"Onions, cooked, as ingredient",31,42,15,6,27,0,0,0,3,8,0,16,7,2
+"Mushrooms, cooked, as ingredient",86,24,19,6,26,0,0,0,3,6,0,16,7,2
+"Green pepper, cooked, as ingredient",37,28,5,1,-1,0,0,0,2,8,0,17,9,2
+"Red pepper, cooked, as ingredient",37,28,5,1,28,0,0,0,2,9,0,21,9,2
+"Cabbage, cooked, as ingredient",67,14,15,6,-1,0,0,0,2,8,0,17,9,2
+"Cauliflower, cooked, as ingredient",67,14,15,6,-1,0,0,0,2,8,0,17,7,2
+"Eggplant, cooked, as ingredient",86,24,19,6,-1,0,0,0,3,6,0,16,7,2
+"Green beans, cooked, as ingredient",11,2,5,1,25,0,0,0,2,9,0,21,9,2
+"Summer squash, cooked, as ingredient",11,2,15,6,-1,0,0,0,2,8,0,17,9,2
+Dark green vegetables as ingredient in omelet,30,28,5,1,22,0,0,0,2,9,0,21,9,2
+Tomatoes as ingredient in omelet,11,2,5,1,25,0,0,0,2,9,0,21,9,2
+Other vegetables as ingredient in omelet,31,42,15,6,-1,0,0,0,3,8,0,16,7,2
+Vegetables as ingredient in curry,11,2,5,1,-1,0,0,0,2,9,0,21,9,2
+Sauce as ingredient in hamburgers,57,37,2,3,-1,-1,-1,0,1,4,0,6,6,3
